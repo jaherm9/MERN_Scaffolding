@@ -1,0 +1,28 @@
+npm init --y
+
+Server-Side
+npm install express --save
+npm i body-parser
+npm i cors
+npm i dotenv
+npm i express
+npm i express-mongo-sanitize
+npm i express-rate-limit
+npm i helmet
+npm i hpp
+npm i jsonwebtoken
+npm i mongoose
+npm i nodemon
+npm i xss-clean
+
+Client-Side
+npx create-react-app client
+
+npm i axios
+npm i bootstrap
+npm i cogo-toast
+npm i react-bootstrap
+npm i react-bootstrap-sweetalert
+npm i react-icons
+npm i react-router
+npm i react-router-dom
